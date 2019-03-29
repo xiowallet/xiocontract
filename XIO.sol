@@ -1,9 +1,5 @@
 pragma solidity ^0.4.25;
 
-/*
-  Verified source code: https://tronsmartcontract.space/#/interact/TPnYF6YmNMk2ZPteEnN19Gyz7bbhf5Bv8M
-*/
-
 contract XIO {
     uint private k = 1000000;
     
